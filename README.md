@@ -5,7 +5,6 @@
 - **Фронтенд:** React (Vite + JavaScript + SWC + Tailwind CSS)
 - **Бекенд:** Node.js (Express + AdminJS)
 - **База даних:** MongoDB Atlas
-- **Інфраструктура:** Docker + docker-compose
 
 ## Опис
 
@@ -21,10 +20,17 @@
 
 1. Клонуйте репозиторій:
     git clone --recurse-submodules https://github.com/Serhii0659/ReelTrack
-2. Перейдіть у директорію проєкту:
-    cd reeltrack
-3. Запустіть через Docker:
-    docker-compose up --build
+2. Створіть свої .env файли у client та server
+3. Перейдіть у директорію client:
+    cd reeltrack/client
+4. Встановіть залежності
+    npm install
+5. Згенеруйте білд / запустіть локально
+    npm run build / npm run dev
+6. Повторіть для server-ної частини
+    cd reeltrack/server
+    npm install
+    nmp run build / npm run den
 
 ## Ліцензія
 Цей проєкт ліцензовано під умовами GNU General Public License v3.0.
