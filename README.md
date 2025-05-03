@@ -3,7 +3,7 @@
 ## Технології
 
 - **Фронтенд:** React (Vite + JavaScript + SWC + Tailwind CSS)
-- **Бекенд:** Node.js (Express + AdminJS)
+- **Бекенд:** Node.js (Express)
 - **База даних:** MongoDB Atlas
 
 ## Опис
@@ -22,15 +22,23 @@
     git clone --recurse-submodules https://github.com/Serhii0659/ReelTrack
 2. Створіть свої .env файли у client та server
 3. Перейдіть у директорію client:
+    ```bash
     cd reeltrack/client
+    ```
 4. Встановіть залежності
+    ```bash
     npm install
+    ```
 5. Згенеруйте білд / запустіть локально
-    npm run build / npm run dev
+    ```bash
+    npm run build  # або npm run den
+    ```
 6. Повторіть для server-ної частини
+    ```bash
     cd reeltrack/server
     npm install
-    nmp run build / npm run den
+    npm run build  # або npm run den
+    ```
 
 ## Ліцензія
 Цей проєкт ліцензовано під умовами GNU General Public License v3.0.
