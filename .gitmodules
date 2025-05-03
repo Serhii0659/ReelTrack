@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/Serhii0659/ReelTrack-client
+[submodule "server"]
+	path = server
+	url = https://github.com/Serhii0659/ReelTrack-server
