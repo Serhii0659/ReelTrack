@@ -13,9 +13,10 @@
 
 ## Розробники
 
+- [Босенко Христина](https://github.com/kartuj4)
+- [Дригалка Данило](https://github.com/Yttterbium)
 - [Коваленко Сергій](https://github.com/Serhii0659)
 - [Ткаченко Дмитро](https://github.com/uddorn)
-- [Дригалка Данило](https://github.com/Yttterbium)
 
 ## Встановлення
 
