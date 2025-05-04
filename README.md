@@ -15,6 +15,7 @@
 
 - [Коваленко Сергій](https://github.com/Serhii0659)
 - [Ткаченко Дмитро](https://github.com/uddorn)
+- [Дригалка Данило](https://github.com/Yttterbium)
 
 ## Встановлення
 
